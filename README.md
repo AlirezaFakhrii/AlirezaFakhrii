@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlirezaFakhrii
-- 👀 I’m interested in python .
-- 🌱 I’m currently learning kivy.
+- 👀 I’m interested in python, C++.
 - 📫 How to reach me alirezafh113@gmail.com
 
 <!---
